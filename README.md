@@ -21,7 +21,7 @@
 
 # 📖 TDD <a name="about-project"></a>
 
-**TDD** is a project build using TDD (**test driven developement**). The project is build for learning purpose 
+**TDD** is a project build using TDD (**test driven developement**). The project is build for learning purpose
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -86,9 +86,8 @@ To run the project, execute the following command:
 
 👤 **Mukama Steven**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/stevenmukama)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/stevenmukama/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -130,6 +129,6 @@ I would like to thank Microverse for giving me this experience.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
