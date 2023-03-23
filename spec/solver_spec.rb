@@ -28,4 +28,18 @@ describe Solver do
     end
   end
 
+  context "#reverse" do
+    it "Empty string return empty string" do
+      expect(@solver.reverse("")).to eq ""
+    end
+
+    it "reverse 'hello' should be 'olleh' " do
+      expect(@solver.reverse("hello")).to eq "olleh"
+    end
+
+    it "reverse 'SALUT' should be 'TULAS' " do
+      expect(@solver.reverse("SALUT")).to eq "TULAS"
+    end
+  end
+
 end
