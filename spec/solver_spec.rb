@@ -42,4 +42,23 @@ describe Solver do
     end
   end
 
+  context "#fizzbuzz" do
+    it "N = 3 should return fizz" do 
+      expect(@solver.fizzbuzz(3)).to eq "fizz"
+    end
+
+    it "N = 5 should return fizz" do 
+      expect(@solver.fizzbuzz(5)).to eq "buzz"
+    end
+
+    it "N = 15 should return fizzbuzz" do 
+      expect(@solver.fizzbuzz(15)).to eq "fizzbuzz"
+    end
+
+    it "N = 7 should return 7 as string" do 
+      expect(@solver.fizzbuzz(7)).to eq "7"
+      expect(@solver.fizzbuzz(7)).to be_kind_of String
+    end
+  end
+
 end
